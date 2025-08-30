@@ -26,8 +26,8 @@
 
 # # LOOP -->
 
-for i in range(1, 11, 2):
-    print(i, "Hello World!")
+# for i in range(1, 11, 2):
+#     print(i, "Hello World!")
 
 # i = 1
 # while i <= 10:
