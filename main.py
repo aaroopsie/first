@@ -33,3 +33,10 @@
 # while i <= 10:
 #     print(i, "Hello World")
 #     i+=1
+
+
+# How to push into GitHub -->
+
+# git add .
+# git commit -m "commit name"
+# git push
